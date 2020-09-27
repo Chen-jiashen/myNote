@@ -1,2 +1,5 @@
-# myNote
-记笔记测试
+# myNot
+
+
+
+git 入门学习地址：https://blog.csdn.net/weixin_44950987/article/details/102619708
